@@ -1,0 +1,4 @@
+Gun
+Knife
+Razor
+Shuriken

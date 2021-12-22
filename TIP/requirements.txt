@@ -1,0 +1,5 @@
+opencv
+numpy
+matplotlib
+pillow
+skimage

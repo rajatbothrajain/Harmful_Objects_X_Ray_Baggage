@@ -1,0 +1,2 @@
+./TEST/Data/TrainData/B0046_0001.png
+./TEST/Data/TrainData/B0046_0002.png

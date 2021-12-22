@@ -1,0 +1,397 @@
+./TEST/Data/TestSynData/gun_100.jpg
+./TEST/Data/TestSynData/gun_10.jpg
+./TEST/Data/TestSynData/gun_11.jpg
+./TEST/Data/TestSynData/gun_12.jpg
+./TEST/Data/TestSynData/gun_13.jpg
+./TEST/Data/TestSynData/gun_14.jpg
+./TEST/Data/TestSynData/gun_15.jpg
+./TEST/Data/TestSynData/gun_16.jpg
+./TEST/Data/TestSynData/gun_17.jpg
+./TEST/Data/TestSynData/gun_18.jpg
+./TEST/Data/TestSynData/gun_19.jpg
+./TEST/Data/TestSynData/gun_1.jpg
+./TEST/Data/TestSynData/gun_20.jpg
+./TEST/Data/TestSynData/gun_21.jpg
+./TEST/Data/TestSynData/gun_22.jpg
+./TEST/Data/TestSynData/gun_23.jpg
+./TEST/Data/TestSynData/gun_24.jpg
+./TEST/Data/TestSynData/gun_25.jpg
+./TEST/Data/TestSynData/gun_26.jpg
+./TEST/Data/TestSynData/gun_27.jpg
+./TEST/Data/TestSynData/gun_28.jpg
+./TEST/Data/TestSynData/gun_29.jpg
+./TEST/Data/TestSynData/gun_2.jpg
+./TEST/Data/TestSynData/gun_30.jpg
+./TEST/Data/TestSynData/gun_31.jpg
+./TEST/Data/TestSynData/gun_32.jpg
+./TEST/Data/TestSynData/gun_33.jpg
+./TEST/Data/TestSynData/gun_34.jpg
+./TEST/Data/TestSynData/gun_35.jpg
+./TEST/Data/TestSynData/gun_36.jpg
+./TEST/Data/TestSynData/gun_37.jpg
+./TEST/Data/TestSynData/gun_38.jpg
+./TEST/Data/TestSynData/gun_39.jpg
+./TEST/Data/TestSynData/gun_3.jpg
+./TEST/Data/TestSynData/gun_40.jpg
+./TEST/Data/TestSynData/gun_41.jpg
+./TEST/Data/TestSynData/gun_42.jpg
+./TEST/Data/TestSynData/gun_43.jpg
+./TEST/Data/TestSynData/gun_44.jpg
+./TEST/Data/TestSynData/gun_45.jpg
+./TEST/Data/TestSynData/gun_46.jpg
+./TEST/Data/TestSynData/gun_47.jpg
+./TEST/Data/TestSynData/gun_48.jpg
+./TEST/Data/TestSynData/gun_49.jpg
+./TEST/Data/TestSynData/gun_4.jpg
+./TEST/Data/TestSynData/gun_50.jpg
+./TEST/Data/TestSynData/gun_51.jpg
+./TEST/Data/TestSynData/gun_52.jpg
+./TEST/Data/TestSynData/gun_53.jpg
+./TEST/Data/TestSynData/gun_54.jpg
+./TEST/Data/TestSynData/gun_55.jpg
+./TEST/Data/TestSynData/gun_56.jpg
+./TEST/Data/TestSynData/gun_57.jpg
+./TEST/Data/TestSynData/gun_58.jpg
+./TEST/Data/TestSynData/gun_59.jpg
+./TEST/Data/TestSynData/gun_5.jpg
+./TEST/Data/TestSynData/gun_60.jpg
+./TEST/Data/TestSynData/gun_61.jpg
+./TEST/Data/TestSynData/gun_62.jpg
+./TEST/Data/TestSynData/gun_63.jpg
+./TEST/Data/TestSynData/gun_64.jpg
+./TEST/Data/TestSynData/gun_65.jpg
+./TEST/Data/TestSynData/gun_66.jpg
+./TEST/Data/TestSynData/gun_67.jpg
+./TEST/Data/TestSynData/gun_68.jpg
+./TEST/Data/TestSynData/gun_69.jpg
+./TEST/Data/TestSynData/gun_6.jpg
+./TEST/Data/TestSynData/gun_70.jpg
+./TEST/Data/TestSynData/gun_71.jpg
+./TEST/Data/TestSynData/gun_72.jpg
+./TEST/Data/TestSynData/gun_73.jpg
+./TEST/Data/TestSynData/gun_74.jpg
+./TEST/Data/TestSynData/gun_75.jpg
+./TEST/Data/TestSynData/gun_76.jpg
+./TEST/Data/TestSynData/gun_77.jpg
+./TEST/Data/TestSynData/gun_78.jpg
+./TEST/Data/TestSynData/gun_79.jpg
+./TEST/Data/TestSynData/gun_7.jpg
+./TEST/Data/TestSynData/gun_80.jpg
+./TEST/Data/TestSynData/gun_81.jpg
+./TEST/Data/TestSynData/gun_82.jpg
+./TEST/Data/TestSynData/gun_83.jpg
+./TEST/Data/TestSynData/gun_84.jpg
+./TEST/Data/TestSynData/gun_85.jpg
+./TEST/Data/TestSynData/gun_86.jpg
+./TEST/Data/TestSynData/gun_87.jpg
+./TEST/Data/TestSynData/gun_88.jpg
+./TEST/Data/TestSynData/gun_89.jpg
+./TEST/Data/TestSynData/gun_8.jpg
+./TEST/Data/TestSynData/gun_90.jpg
+./TEST/Data/TestSynData/gun_91.jpg
+./TEST/Data/TestSynData/gun_92.jpg
+./TEST/Data/TestSynData/gun_93.jpg
+./TEST/Data/TestSynData/gun_94.jpg
+./TEST/Data/TestSynData/gun_95.jpg
+./TEST/Data/TestSynData/gun_96.jpg
+./TEST/Data/TestSynData/gun_97.jpg
+./TEST/Data/TestSynData/gun_98.jpg
+./TEST/Data/TestSynData/gun_99.jpg
+./TEST/Data/TestSynData/gun_9.jpg
+./TEST/Data/TestSynData/knife_10.jpg
+./TEST/Data/TestSynData/knife_11.jpg
+./TEST/Data/TestSynData/knife_12.jpg
+./TEST/Data/TestSynData/knife_13.jpg
+./TEST/Data/TestSynData/knife_14.jpg
+./TEST/Data/TestSynData/knife_15.jpg
+./TEST/Data/TestSynData/knife_16.jpg
+./TEST/Data/TestSynData/knife_17.jpg
+./TEST/Data/TestSynData/knife_18.jpg
+./TEST/Data/TestSynData/knife_19.jpg
+./TEST/Data/TestSynData/knife_1.jpg
+./TEST/Data/TestSynData/knife_20.jpg
+./TEST/Data/TestSynData/knife_21.jpg
+./TEST/Data/TestSynData/knife_22.jpg
+./TEST/Data/TestSynData/knife_23.jpg
+./TEST/Data/TestSynData/knife_24.jpg
+./TEST/Data/TestSynData/knife_25.jpg
+./TEST/Data/TestSynData/knife_26.jpg
+./TEST/Data/TestSynData/knife_27.jpg
+./TEST/Data/TestSynData/knife_28.jpg
+./TEST/Data/TestSynData/knife_29.jpg
+./TEST/Data/TestSynData/knife_2.jpg
+./TEST/Data/TestSynData/knife_30.jpg
+./TEST/Data/TestSynData/knife_31.jpg
+./TEST/Data/TestSynData/knife_32.jpg
+./TEST/Data/TestSynData/knife_33.jpg
+./TEST/Data/TestSynData/knife_34.jpg
+./TEST/Data/TestSynData/knife_35.jpg
+./TEST/Data/TestSynData/knife_36.jpg
+./TEST/Data/TestSynData/knife_37.jpg
+./TEST/Data/TestSynData/knife_38.jpg
+./TEST/Data/TestSynData/knife_39.jpg
+./TEST/Data/TestSynData/knife_3.jpg
+./TEST/Data/TestSynData/knife_40.jpg
+./TEST/Data/TestSynData/knife_41.jpg
+./TEST/Data/TestSynData/knife_42.jpg
+./TEST/Data/TestSynData/knife_43.jpg
+./TEST/Data/TestSynData/knife_44.jpg
+./TEST/Data/TestSynData/knife_45.jpg
+./TEST/Data/TestSynData/knife_46.jpg
+./TEST/Data/TestSynData/knife_47.jpg
+./TEST/Data/TestSynData/knife_48.jpg
+./TEST/Data/TestSynData/knife_49.jpg
+./TEST/Data/TestSynData/knife_4.jpg
+./TEST/Data/TestSynData/knife_50.jpg
+./TEST/Data/TestSynData/knife_51.jpg
+./TEST/Data/TestSynData/knife_52.jpg
+./TEST/Data/TestSynData/knife_53.jpg
+./TEST/Data/TestSynData/knife_54.jpg
+./TEST/Data/TestSynData/knife_55.jpg
+./TEST/Data/TestSynData/knife_56.jpg
+./TEST/Data/TestSynData/knife_57.jpg
+./TEST/Data/TestSynData/knife_58.jpg
+./TEST/Data/TestSynData/knife_59.jpg
+./TEST/Data/TestSynData/knife_5.jpg
+./TEST/Data/TestSynData/knife_60.jpg
+./TEST/Data/TestSynData/knife_61.jpg
+./TEST/Data/TestSynData/knife_62.jpg
+./TEST/Data/TestSynData/knife_63.jpg
+./TEST/Data/TestSynData/knife_64.jpg
+./TEST/Data/TestSynData/knife_65.jpg
+./TEST/Data/TestSynData/knife_66.jpg
+./TEST/Data/TestSynData/knife_67.jpg
+./TEST/Data/TestSynData/knife_68.jpg
+./TEST/Data/TestSynData/knife_69.jpg
+./TEST/Data/TestSynData/knife_6.jpg
+./TEST/Data/TestSynData/knife_70.jpg
+./TEST/Data/TestSynData/knife_71.jpg
+./TEST/Data/TestSynData/knife_72.jpg
+./TEST/Data/TestSynData/knife_73.jpg
+./TEST/Data/TestSynData/knife_74.jpg
+./TEST/Data/TestSynData/knife_75.jpg
+./TEST/Data/TestSynData/knife_76.jpg
+./TEST/Data/TestSynData/knife_77.jpg
+./TEST/Data/TestSynData/knife_78.jpg
+./TEST/Data/TestSynData/knife_79.jpg
+./TEST/Data/TestSynData/knife_7.jpg
+./TEST/Data/TestSynData/knife_80.jpg
+./TEST/Data/TestSynData/knife_81.jpg
+./TEST/Data/TestSynData/knife_82.jpg
+./TEST/Data/TestSynData/knife_83.jpg
+./TEST/Data/TestSynData/knife_84.jpg
+./TEST/Data/TestSynData/knife_85.jpg
+./TEST/Data/TestSynData/knife_86.jpg
+./TEST/Data/TestSynData/knife_87.jpg
+./TEST/Data/TestSynData/knife_88.jpg
+./TEST/Data/TestSynData/knife_89.jpg
+./TEST/Data/TestSynData/knife_8.jpg
+./TEST/Data/TestSynData/knife_90.jpg
+./TEST/Data/TestSynData/knife_91.jpg
+./TEST/Data/TestSynData/knife_92.jpg
+./TEST/Data/TestSynData/knife_93.jpg
+./TEST/Data/TestSynData/knife_94.jpg
+./TEST/Data/TestSynData/knife_95.jpg
+./TEST/Data/TestSynData/knife_96.jpg
+./TEST/Data/TestSynData/knife_97.jpg
+./TEST/Data/TestSynData/knife_98.jpg
+./TEST/Data/TestSynData/knife_99.jpg
+./TEST/Data/TestSynData/knife_9.jpg
+./TEST/Data/TestSynData/rajor blade_10.jpg
+./TEST/Data/TestSynData/rajor blade_11.jpg
+./TEST/Data/TestSynData/rajor blade_12.jpg
+./TEST/Data/TestSynData/rajor blade_13.jpg
+./TEST/Data/TestSynData/rajor blade_14.jpg
+./TEST/Data/TestSynData/rajor blade_15.jpg
+./TEST/Data/TestSynData/rajor blade_16.jpg
+./TEST/Data/TestSynData/rajor blade_17.jpg
+./TEST/Data/TestSynData/rajor blade_18.jpg
+./TEST/Data/TestSynData/rajor blade_19.jpg
+./TEST/Data/TestSynData/rajor blade_1.jpg
+./TEST/Data/TestSynData/rajor blade_20.jpg
+./TEST/Data/TestSynData/rajor blade_21.jpg
+./TEST/Data/TestSynData/rajor blade_22.jpg
+./TEST/Data/TestSynData/rajor blade_23.jpg
+./TEST/Data/TestSynData/rajor blade_24.jpg
+./TEST/Data/TestSynData/rajor blade_25.jpg
+./TEST/Data/TestSynData/rajor blade_26.jpg
+./TEST/Data/TestSynData/rajor blade_27.jpg
+./TEST/Data/TestSynData/rajor blade_28.jpg
+./TEST/Data/TestSynData/rajor blade_29.jpg
+./TEST/Data/TestSynData/rajor blade_2.jpg
+./TEST/Data/TestSynData/rajor blade_30.jpg
+./TEST/Data/TestSynData/rajor blade_31.jpg
+./TEST/Data/TestSynData/rajor blade_32.jpg
+./TEST/Data/TestSynData/rajor blade_33.jpg
+./TEST/Data/TestSynData/rajor blade_34.jpg
+./TEST/Data/TestSynData/rajor blade_35.jpg
+./TEST/Data/TestSynData/rajor blade_36.jpg
+./TEST/Data/TestSynData/rajor blade_37.jpg
+./TEST/Data/TestSynData/rajor blade_38.jpg
+./TEST/Data/TestSynData/rajor blade_39.jpg
+./TEST/Data/TestSynData/rajor blade_3.jpg
+./TEST/Data/TestSynData/rajor blade_40.jpg
+./TEST/Data/TestSynData/rajor blade_41.jpg
+./TEST/Data/TestSynData/rajor blade_42.jpg
+./TEST/Data/TestSynData/rajor blade_43.jpg
+./TEST/Data/TestSynData/rajor blade_44.jpg
+./TEST/Data/TestSynData/rajor blade_45.jpg
+./TEST/Data/TestSynData/rajor blade_46.jpg
+./TEST/Data/TestSynData/rajor blade_47.jpg
+./TEST/Data/TestSynData/rajor blade_48.jpg
+./TEST/Data/TestSynData/rajor blade_49.jpg
+./TEST/Data/TestSynData/rajor blade_4.jpg
+./TEST/Data/TestSynData/rajor blade_50.jpg
+./TEST/Data/TestSynData/rajor blade_51.jpg
+./TEST/Data/TestSynData/rajor blade_52.jpg
+./TEST/Data/TestSynData/rajor blade_53.jpg
+./TEST/Data/TestSynData/rajor blade_54.jpg
+./TEST/Data/TestSynData/rajor blade_55.jpg
+./TEST/Data/TestSynData/rajor blade_56.jpg
+./TEST/Data/TestSynData/rajor blade_57.jpg
+./TEST/Data/TestSynData/rajor blade_58.jpg
+./TEST/Data/TestSynData/rajor blade_59.jpg
+./TEST/Data/TestSynData/rajor blade_5.jpg
+./TEST/Data/TestSynData/rajor blade_60.jpg
+./TEST/Data/TestSynData/rajor blade_61.jpg
+./TEST/Data/TestSynData/rajor blade_62.jpg
+./TEST/Data/TestSynData/rajor blade_63.jpg
+./TEST/Data/TestSynData/rajor blade_64.jpg
+./TEST/Data/TestSynData/rajor blade_65.jpg
+./TEST/Data/TestSynData/rajor blade_66.jpg
+./TEST/Data/TestSynData/rajor blade_67.jpg
+./TEST/Data/TestSynData/rajor blade_68.jpg
+./TEST/Data/TestSynData/rajor blade_69.jpg
+./TEST/Data/TestSynData/rajor blade_6.jpg
+./TEST/Data/TestSynData/rajor blade_70.jpg
+./TEST/Data/TestSynData/rajor blade_71.jpg
+./TEST/Data/TestSynData/rajor blade_72.jpg
+./TEST/Data/TestSynData/rajor blade_73.jpg
+./TEST/Data/TestSynData/rajor blade_74.jpg
+./TEST/Data/TestSynData/rajor blade_75.jpg
+./TEST/Data/TestSynData/rajor blade_76.jpg
+./TEST/Data/TestSynData/rajor blade_77.jpg
+./TEST/Data/TestSynData/rajor blade_78.jpg
+./TEST/Data/TestSynData/rajor blade_79.jpg
+./TEST/Data/TestSynData/rajor blade_7.jpg
+./TEST/Data/TestSynData/rajor blade_80.jpg
+./TEST/Data/TestSynData/rajor blade_81.jpg
+./TEST/Data/TestSynData/rajor blade_82.jpg
+./TEST/Data/TestSynData/rajor blade_83.jpg
+./TEST/Data/TestSynData/rajor blade_84.jpg
+./TEST/Data/TestSynData/rajor blade_85.jpg
+./TEST/Data/TestSynData/rajor blade_86.jpg
+./TEST/Data/TestSynData/rajor blade_87.jpg
+./TEST/Data/TestSynData/rajor blade_88.jpg
+./TEST/Data/TestSynData/rajor blade_89.jpg
+./TEST/Data/TestSynData/rajor blade_8.jpg
+./TEST/Data/TestSynData/rajor blade_90.jpg
+./TEST/Data/TestSynData/rajor blade_91.jpg
+./TEST/Data/TestSynData/rajor blade_92.jpg
+./TEST/Data/TestSynData/rajor blade_93.jpg
+./TEST/Data/TestSynData/rajor blade_94.jpg
+./TEST/Data/TestSynData/rajor blade_95.jpg
+./TEST/Data/TestSynData/rajor blade_96.jpg
+./TEST/Data/TestSynData/rajor blade_97.jpg
+./TEST/Data/TestSynData/rajor blade_98.jpg
+./TEST/Data/TestSynData/rajor blade_99.jpg
+./TEST/Data/TestSynData/rajor blade_9.jpg
+./TEST/Data/TestSynData/shuriken_10.jpg
+./TEST/Data/TestSynData/shuriken_11.jpg
+./TEST/Data/TestSynData/shuriken_12.jpg
+./TEST/Data/TestSynData/shuriken_13.jpg
+./TEST/Data/TestSynData/shuriken_14.jpg
+./TEST/Data/TestSynData/shuriken_15.jpg
+./TEST/Data/TestSynData/shuriken_16.jpg
+./TEST/Data/TestSynData/shuriken_17.jpg
+./TEST/Data/TestSynData/shuriken_18.jpg
+./TEST/Data/TestSynData/shuriken_19.jpg
+./TEST/Data/TestSynData/shuriken_1.jpg
+./TEST/Data/TestSynData/shuriken_20.jpg
+./TEST/Data/TestSynData/shuriken_21.jpg
+./TEST/Data/TestSynData/shuriken_22.jpg
+./TEST/Data/TestSynData/shuriken_23.jpg
+./TEST/Data/TestSynData/shuriken_24.jpg
+./TEST/Data/TestSynData/shuriken_25.jpg
+./TEST/Data/TestSynData/shuriken_26.jpg
+./TEST/Data/TestSynData/shuriken_27.jpg
+./TEST/Data/TestSynData/shuriken_28.jpg
+./TEST/Data/TestSynData/shuriken_29.jpg
+./TEST/Data/TestSynData/shuriken_2.jpg
+./TEST/Data/TestSynData/shuriken_30.jpg
+./TEST/Data/TestSynData/shuriken_31.jpg
+./TEST/Data/TestSynData/shuriken_32.jpg
+./TEST/Data/TestSynData/shuriken_33.jpg
+./TEST/Data/TestSynData/shuriken_34.jpg
+./TEST/Data/TestSynData/shuriken_35.jpg
+./TEST/Data/TestSynData/shuriken_36.jpg
+./TEST/Data/TestSynData/shuriken_37.jpg
+./TEST/Data/TestSynData/shuriken_38.jpg
+./TEST/Data/TestSynData/shuriken_39.jpg
+./TEST/Data/TestSynData/shuriken_3.jpg
+./TEST/Data/TestSynData/shuriken_40.jpg
+./TEST/Data/TestSynData/shuriken_41.jpg
+./TEST/Data/TestSynData/shuriken_42.jpg
+./TEST/Data/TestSynData/shuriken_43.jpg
+./TEST/Data/TestSynData/shuriken_44.jpg
+./TEST/Data/TestSynData/shuriken_45.jpg
+./TEST/Data/TestSynData/shuriken_46.jpg
+./TEST/Data/TestSynData/shuriken_47.jpg
+./TEST/Data/TestSynData/shuriken_48.jpg
+./TEST/Data/TestSynData/shuriken_49.jpg
+./TEST/Data/TestSynData/shuriken_4.jpg
+./TEST/Data/TestSynData/shuriken_50.jpg
+./TEST/Data/TestSynData/shuriken_51.jpg
+./TEST/Data/TestSynData/shuriken_52.jpg
+./TEST/Data/TestSynData/shuriken_53.jpg
+./TEST/Data/TestSynData/shuriken_54.jpg
+./TEST/Data/TestSynData/shuriken_55.jpg
+./TEST/Data/TestSynData/shuriken_56.jpg
+./TEST/Data/TestSynData/shuriken_57.jpg
+./TEST/Data/TestSynData/shuriken_58.jpg
+./TEST/Data/TestSynData/shuriken_59.jpg
+./TEST/Data/TestSynData/shuriken_5.jpg
+./TEST/Data/TestSynData/shuriken_60.jpg
+./TEST/Data/TestSynData/shuriken_61.jpg
+./TEST/Data/TestSynData/shuriken_62.jpg
+./TEST/Data/TestSynData/shuriken_63.jpg
+./TEST/Data/TestSynData/shuriken_64.jpg
+./TEST/Data/TestSynData/shuriken_65.jpg
+./TEST/Data/TestSynData/shuriken_66.jpg
+./TEST/Data/TestSynData/shuriken_67.jpg
+./TEST/Data/TestSynData/shuriken_68.jpg
+./TEST/Data/TestSynData/shuriken_69.jpg
+./TEST/Data/TestSynData/shuriken_6.jpg
+./TEST/Data/TestSynData/shuriken_70.jpg
+./TEST/Data/TestSynData/shuriken_71.jpg
+./TEST/Data/TestSynData/shuriken_72.jpg
+./TEST/Data/TestSynData/shuriken_73.jpg
+./TEST/Data/TestSynData/shuriken_74.jpg
+./TEST/Data/TestSynData/shuriken_75.jpg
+./TEST/Data/TestSynData/shuriken_76.jpg
+./TEST/Data/TestSynData/shuriken_77.jpg
+./TEST/Data/TestSynData/shuriken_78.jpg
+./TEST/Data/TestSynData/shuriken_79.jpg
+./TEST/Data/TestSynData/shuriken_7.jpg
+./TEST/Data/TestSynData/shuriken_80.jpg
+./TEST/Data/TestSynData/shuriken_81.jpg
+./TEST/Data/TestSynData/shuriken_82.jpg
+./TEST/Data/TestSynData/shuriken_83.jpg
+./TEST/Data/TestSynData/shuriken_84.jpg
+./TEST/Data/TestSynData/shuriken_85.jpg
+./TEST/Data/TestSynData/shuriken_86.jpg
+./TEST/Data/TestSynData/shuriken_87.jpg
+./TEST/Data/TestSynData/shuriken_88.jpg
+./TEST/Data/TestSynData/shuriken_89.jpg
+./TEST/Data/TestSynData/shuriken_8.jpg
+./TEST/Data/TestSynData/shuriken_90.jpg
+./TEST/Data/TestSynData/shuriken_91.jpg
+./TEST/Data/TestSynData/shuriken_92.jpg
+./TEST/Data/TestSynData/shuriken_93.jpg
+./TEST/Data/TestSynData/shuriken_94.jpg
+./TEST/Data/TestSynData/shuriken_95.jpg
+./TEST/Data/TestSynData/shuriken_96.jpg
+./TEST/Data/TestSynData/shuriken_97.jpg
+./TEST/Data/TestSynData/shuriken_98.jpg
+./TEST/Data/TestSynData/shuriken_99.jpg
+./TEST/Data/TestSynData/shuriken_9.jpg
