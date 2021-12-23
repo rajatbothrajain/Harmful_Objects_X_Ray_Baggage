@@ -1,5 +1,5 @@
 classes = 4
-train = /tmp/synData/train.txt
-valid = ./TEST/Data/val.txt
+train = ./TEST/Data/train_real.txt
+valid = ./TEST/Data/test.txt
 names = ./TEST/cfg/yolov3-tiny.names
 backup = ./TEST/weights

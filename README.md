@@ -28,7 +28,7 @@ This code is divided into two parts :
 
 1) [Model Training : Yolov3-tiny ](darknet_yolov3-tiny/README.md)
 
-2) [Synthetic Data Generation : TIP](TIP/README.md)
+2) [Synthetic Data Generation : TIP](TIP/Readme.md)
 
 
 

@@ -83,6 +83,9 @@ Blade
 
 ## References
 https://www.sciencedirect.com/science/article/abs/pii/S0375960121001705
+
 https://www.witpress.com/elibrary/wit-transactions-on-the-built-environment/82/15153
+
 https://github.com/computervision-xray-testing/pyxvis
+
 https://opencv.org/
