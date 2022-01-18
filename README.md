@@ -1,5 +1,7 @@
 # Harmful Objects X-Ray Baggage
 Identify Harmful Objects in the X-Ray Image of Baggage. 
+Project Report IEEE Format : [Link] (Automated_Threat_Detection_In X-Ray_Imagery.pdf)
+
 
 ## Challenges For X-ray Image Object Detection :
  
